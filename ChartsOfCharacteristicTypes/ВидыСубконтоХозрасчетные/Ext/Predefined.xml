@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="PlanOfCharacteristicKindPredefinedItems" version="2.20">
+	<Item id="9f70135c-4c57-405f-8c25-adbc4a1fc7e7">
+		<Name>Кассы</Name>
+		<Code>000000001</Code>
+		<Description>Кассы</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.Кассы</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="8bba8ade-56af-4063-beb7-fe6c1911bdef">
+		<Name>Контрагенты</Name>
+		<Code>000000002</Code>
+		<Description>Контрагенты</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.Контрагенты</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="77397737-a5c6-4983-bf14-bc787234eed1">
+		<Name>Номенклатура</Name>
+		<Code>000000003</Code>
+		<Description>Номенклатура</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.Номенклатура</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="652d7536-fb22-49d9-b427-9c2c24056b89">
+		<Name>Сотрудники</Name>
+		<Code>000000004</Code>
+		<Description>Сотрудники</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.Сотрудники</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="90f385df-e78c-40cc-86ef-8a9efecd970a">
+		<Name>СтатьиЗатрат</Name>
+		<Code>000000005</Code>
+		<Description>Статьи затрат</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.СтатьиЗатрат</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
