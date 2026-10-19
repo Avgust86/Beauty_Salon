@@ -1,0 +1,23 @@
+# Служебные файлы 1С
+ConfigDumpInfo.xml
+DumpFilesIndex.txt
+
+# Файлы баз данных (не должны попадать в репозиторий)
+*.1CD
+*.CD
+*.dt
+*.cf
+*.cfe
+
+# Логи и временные файлы
+*.log
+*.lgf
+*.lgp
+*.lgs
+*.tmp
+*.bak
+
+# Кэш и служебные папки
+1Cv8Log/
+1Cv8Temp/
+1Cv8Tmp/
